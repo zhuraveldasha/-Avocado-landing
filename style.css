@@ -1,0 +1,28 @@
+body{
+    background: #171717;
+}
+
+.logo__containere{
+    padding: 10px;
+    height: 65px;
+    border-bottom: 1px solid #404040;
+    box-sizing: border-box;
+}
+
+.header__title{
+    margin: 35px;
+    color: white;
+    text-align: center;
+}
+
+.header__title--item{
+    color: #17B239;
+}
+
+.header__nav{
+    text-align: center;
+}
+
+.container-main{
+    margin-top: 25px;
+}
